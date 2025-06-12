@@ -1,4 +1,4 @@
-# Web Development Final Project - BookTea
+# BookTea ☕️📚
 
 Submitted by: Alexa Zambrano
 
